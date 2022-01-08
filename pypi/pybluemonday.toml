@@ -1,0 +1,11 @@
+name = "pybluemonday"
+ecosystem = "pypi"
+source = "https://github.com/ColdHeat/pybluemonday"
+
+[[cpe_configurations]]
+vendor = "pybluemonday_project"
+product = "pybluemonday"
+
+[[cpe_configurations]]
+vendor = "python"
+product = "pybluemonday"
